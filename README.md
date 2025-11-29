@@ -5,6 +5,8 @@ Frontend React para o sistema de gerenciamento de funcionários e autenticação
 
 Este projeto é a interface web que consome a API ASP.NET Core (`ProjetoUni9_API`). Permite login, cadastro, listagem, criação, edição, inativação e exclusão de funcionários, além de gerenciamento de usuários.
 
+> 📚 **Para documentação completa e detalhada, consulte [DOCUMENTACAO.md](./DOCUMENTACAO.md)**
+
 ## ⚡ Resumo rápido
 
 - 🛠️ Tech: React 19, React Router DOM, Axios
