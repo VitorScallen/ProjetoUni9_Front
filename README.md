@@ -117,7 +117,3 @@ meu-projeto-uninove/
 - O projeto foi pensado para ser simples, didático e fácil de rodar.
 - Para ambiente de produção, configure variáveis de ambiente e HTTPS corretamente.
 - O backend deve estar rodando e acessível para o frontend funcionar.
-
----
-
-Feito com 💙 para a disciplina de Projeto Uni9.
